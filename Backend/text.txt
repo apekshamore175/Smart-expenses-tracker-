@@ -1,7 +1,0 @@
-config - db.js mongoose.connect ne database connect
-
-models - Transactions.js tyat mongoose.Schema - > title, amount, type, category, date last la mongoose.model()
-
-controllers - transactionControllers.js -> create (POST) .create, read (GET) .find
-
-routes - transactionRoutes.js 
